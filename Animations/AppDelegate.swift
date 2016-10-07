@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Animations
 //
-//  Created by Daniel Autenrieth on 07/10/2016.
+//  Created by Brian Advent on 07/10/2016.
 //  Copyright © 2016 Brian Advent. All rights reserved.
 //
 
